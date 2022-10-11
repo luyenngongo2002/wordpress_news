@@ -1,6 +1,6 @@
 <?php
 /**
- * WordPress User Page
+ * WordPress User Page Child
  *
  * Handles authentication, registering, resetting passwords, forgot password,
  * and other user handling.
